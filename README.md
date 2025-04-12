@@ -1,5 +1,4 @@
-# Real Estate App using React as Frontend and Django as Backend by Rajan Gautam
-
+# Real Estate App using React as Frontend and Django as Backend by Raj Khatri
 ## Steps to Run the Application
 
 Pull the repository into your device and run it as you used to run Django Application.
