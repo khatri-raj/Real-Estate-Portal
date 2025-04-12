@@ -81,4 +81,4 @@ From the admin page, you can manage almost all things.
 
 ## Thank You
 
-## Rajan Gautam
+## Raj Khatri
